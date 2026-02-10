@@ -47,11 +47,14 @@ Currently pursuing my **B.Tech in Computer Science and Design** at **BCREC**, I 
 ## Resume Preview
 
 <p align="center">
-  <img src="![cv_page-0001](https://github.com/user-attachments/assets/49e9ec76-3a2c-4689-8c12-70101beedd3e)"
-       alt="Subhajit Resume Preview"
-       width="750"
-       style="border: 4px solid #00adb5; border-radius: 18px; box-shadow: 0 0 25px rgba(0,0,0,0.5);" />
+  <img 
+    src="https://github.com/user-attachments/assets/49e9ec76-3a2c-4689-8c12-70101beedd3e"
+    alt="Subhajit Resume Preview"
+    width="750"
+    style="border: 4px solid #00adb5; border-radius: 18px; box-shadow: 0 0 25px rgba(0,0,0,0.5);" 
+  />
 </p>
+
 
 ---
 
